@@ -1,0 +1,16 @@
+/*--------------------------HEADER------------------------------*/
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    i{
+        position: absolute;
+        left: 5%;
+        cursor: pointer;
+    }
+    img {
+        width: 165px;
+        height: 32px;
+    }
+}
+

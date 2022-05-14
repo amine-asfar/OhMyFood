@@ -1,0 +1,42 @@
+footer{
+    color: white;
+    background-color: #323232;
+    height: 180px;
+    h3{
+        
+        font-family: $logo_titre_font;
+        margin-top: 0;
+        padding-top: 10px;
+        #footer_title{
+            color: white;
+        }
+    }
+    P{
+       margin:7px ;
+       a{
+           color:white;
+       }
+    }
+    div{
+        display: flex;
+         
+        .icon_footer{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            margin-right: 10px;
+        }
+    }
+}
+@media screen and (min-width:1000px) {
+    footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+
+
+}
