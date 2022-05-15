@@ -2,7 +2,7 @@
 ## Ohmyfood
 Ohmyfood! est une entreprise de commande de repas en ligne. Notre concept permet aux utilisateurs de composer leur propre menu et réduire leur temps d’attente dans les restaurants car leur menu est préparé à l’avance.
 ### Site adapté aux formats desktop,mobile et tablette
-![maquette web Ohmyfood](https://github.com/amine-asfar/OhMyFood/blob/main/images/maquettes/version%20Desktop.png)
+![maquette web Ohmyfood](https://github.com/amine-asfar/OhMyFood/blob/main/images/version%20Desktop.png?raw=true)
 ## Identité graphique
 ### Polices:
 - Logo et titres: **Shrikhand**
